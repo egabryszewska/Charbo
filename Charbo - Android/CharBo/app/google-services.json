@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7083863716",
+    "firebase_url": "https://charbo-15ec2.firebaseio.com",
+    "project_id": "charbo-15ec2",
+    "storage_bucket": "charbo-15ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7083863716:android:823c4cd91fe8e959",
+        "android_client_info": {
+          "package_name": "com.tysovsky.charbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7083863716-fdfjja9k1lot8l8ir0hjnb8adv4bjsan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU2vdnjmUjFFh0Umx3q_J63JYZzrfx4QE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
